@@ -18,7 +18,7 @@ Aprender e praticar conceitos básicos de front-end com HTML5 e CSS3.
 
 Abra o arquivo `index.html` no navegador ou acesse pelo GitHub Pages:
 
-🔗 [Ver online](https://seu-usuario.github.io/nome-do-repositorio)
+🔗 [Ver online](https://github.com/luishenriquesilvabotelho/login-page)
 
 ---
 
